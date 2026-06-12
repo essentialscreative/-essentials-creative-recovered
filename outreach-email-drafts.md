@@ -1,12 +1,11 @@
 # Outreach Drafts — Essentials Creative → Central Texas Arts Orgs
 
-Short, casual intro emails offering video work. Paste-ready — just fill in:
+Short, casual intro emails offering video work. Paste-ready — fill in:
 
 - `[Your Name]`
 - `[Site Link]` — your website with past video work
-- `[Phone]`
 
-Voice: keep it short and human. Send to yourself first to check the link.
+Voice: short and human. Send to yourself first to check the link.
 
 > Note: Women & Their Work Gallery is a current client, so they're used as a
 > reference in these emails, not cold-pitched.
@@ -33,7 +32,7 @@ Happy to chat whenever.
 Thanks,
 [Your Name]
 Essentials Creative
-[Phone] · essentialscreative@gmail.com
+essentialscreative@gmail.com
 
 ---
 
@@ -57,7 +56,8 @@ Happy to be a resource your network can lean on. Reach out anytime.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 2. Creative Action — info@creativeaction.org
 
@@ -77,7 +77,8 @@ Would love to help capture a program down the road. No rush — just keep us in 
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 3. Art Alliance Austin — info@A3Austin.org
 
@@ -97,7 +98,8 @@ Glad to help with an upcoming event whenever it fits. Reach out anytime.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 4. TIPS On Art — tipsonart@yahoo.com
 
@@ -116,7 +118,8 @@ Happy to help capture an event or class sometime. Just keep us in mind.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 5. Mexic-Arte Museum — luisap@mexic-artemuseum.org
 
@@ -136,7 +139,8 @@ Would love to help with an upcoming show whenever it fits. Reach out anytime.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 6. Round Rock Arts — info@RoundRockArts.org
 
@@ -156,7 +160,8 @@ Happy to help with a show or event sometime. Reach out anytime.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 7. Georgetown Arts & Culture — Arts@georgetown.org
 
@@ -176,7 +181,8 @@ Glad to help with an upcoming opening whenever it fits. Reach out anytime.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 8. San Marcos Arts Commission — ghatt@sanmarcostx.gov
 
@@ -196,7 +202,8 @@ Happy to help with a program or install sometime. Thanks for all you do for the 
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
 
 ### 9. Art Center Waco — info@artcenterwaco.org
 
@@ -216,7 +223,28 @@ Glad to help with an exhibit or class sometime. Reach out anytime.
 
 Thanks,
 [Your Name]
-Essentials Creative · [Phone] · essentialscreative@gmail.com
+Essentials Creative
+essentialscreative@gmail.com
+
+---
+
+## Follow-up nudge (send ~1 week later if no reply)
+
+Reusable for any org — just swap `[Organization]`. Reply on top of your original
+email so it threads (keep the same subject with "Re:").
+
+**Subject:** Re: Video work for [Organization]?
+
+Hi [Organization],
+
+Just floating this back up in case it slipped by. No worries at all if the timing's
+off — happy to be a resource whenever video comes up down the road. Our recent work's
+here if it's handy: [Site Link].
+
+Thanks,
+[Your Name]
+Essentials Creative
+essentialscreative@gmail.com
 
 ---
 
@@ -227,5 +255,4 @@ Essentials Creative · [Phone] · essentialscreative@gmail.com
   template through their website contact form or social pages (see the CSV).
 - Women & Their Work Gallery is a current client, so skip cold outreach there — ask
   them for a quick testimonial or a referral instead.
-- Keep it to one link, no attachments on the first email — lands better, dodges spam
-  filters.
+- One link, no attachments on the first email — lands better, dodges spam filters.
