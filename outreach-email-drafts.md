@@ -1,9 +1,6 @@
 # Outreach Drafts — Essentials Creative → Central Texas Arts Orgs
 
-Short, casual intro emails offering video work. Paste-ready — fill in:
-
-- `[Your Name]`
-- `[Site Link]` — your website with past video work
+Short, casual intro emails offering video work. Paste-ready — just send.
 
 Voice: short and human. Send to yourself first to check the link.
 
@@ -19,20 +16,20 @@ Voice: short and human. Send to yourself first to check the link.
 
 Hi [Organization],
 
-I'm [Your Name] from Essentials Creative, a small video team here in Central
+I'm Fabian Villa from Essentials Creative, a small video team here in Central
 Texas. We work with arts groups to film events and exhibitions, put together short
 artist profiles, and make clips for social.
 
 Some of our clients include Women & Their Work Gallery — you can see our previous
-work on our site: [Site Link].
+work on our site: essentialscreative.com.
 
 No big pitch here, just wanted to be on your radar in case you ever need video.
 Happy to chat whenever.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ---
 
@@ -44,20 +41,20 @@ essentialscreative@gmail.com
 
 Hi Austin Creative Alliance,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. With all
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. With all
 the artists and projects under your wing, figured I'd reach out in case video is ever
 handy — for you or the groups you support.
 
 We film events and exhibitions, make short artist profiles, and cut clips for social.
 Some of our clients include Women & Their Work Gallery, and our past work is on our
-site: [Site Link].
+site: essentialscreative.com.
 
 Happy to be a resource your network can lean on. Reach out anytime.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 2. Creative Action — info@creativeaction.org
 
@@ -65,20 +62,20 @@ essentialscreative@gmail.com
 
 Hi Creative Action,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. The work
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. The work
 you do with kids and the community is the kind of thing that really comes alive on
 video, so I wanted to introduce myself.
 
 We film events and programs, make short profiles, and put together clips for social —
 good for showing impact and bringing supporters in. Some of our clients include Women
-& Their Work Gallery, and you can see our past work here: [Site Link].
+& Their Work Gallery, and you can see our past work here: essentialscreative.com.
 
 Would love to help capture a program down the road. No rush — just keep us in mind.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 3. Art Alliance Austin — info@A3Austin.org
 
@@ -86,20 +83,20 @@ essentialscreative@gmail.com
 
 Hi Art Alliance Austin,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. Since so
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. Since so
 much of what you do happens at events, figured I'd reach out in case video is ever
 useful.
 
 We film openings and events, make short artist profiles, and cut recap clips for
 social. Some of our clients include Women & Their Work Gallery — past work's on our
-site: [Site Link].
+site: essentialscreative.com.
 
 Glad to help with an upcoming event whenever it fits. Reach out anytime.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 4. TIPS On Art — tipsonart@yahoo.com
 
@@ -107,19 +104,19 @@ essentialscreative@gmail.com
 
 Hi TIPS On Art,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. Love that
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. Love that
 your work is all about people, art, and community, so I wanted to say hello.
 
 We film events and workshops, make short profiles, and put together clips for social.
 Some of our clients include Women & Their Work Gallery, and you can see our past work
-here: [Site Link].
+here: essentialscreative.com.
 
 Happy to help capture an event or class sometime. Just keep us in mind.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 5. Mexic-Arte Museum — luisap@mexic-artemuseum.org
 
@@ -127,20 +124,20 @@ essentialscreative@gmail.com
 
 Hi Luisa,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. The
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. The
 museum's work celebrating Mexican and Latin American art makes for great
 storytelling, so I wanted to introduce myself.
 
 We film exhibitions and events, make short artist and curator profiles, and cut clips
 for social. Some of our clients include Women & Their Work Gallery — past work's on
-our site: [Site Link].
+our site: essentialscreative.com.
 
 Would love to help with an upcoming show whenever it fits. Reach out anytime.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 6. Round Rock Arts — info@RoundRockArts.org
 
@@ -148,20 +145,20 @@ essentialscreative@gmail.com
 
 Hi Round Rock Arts,
 
-I'm [Your Name] from Essentials Creative, a small video team right here in your area.
+I'm Fabian Villa from Essentials Creative, a small video team right here in your area.
 Since you're all about supporting local artists, figured I'd reach out in case video
 is ever handy.
 
 We film events and exhibitions, make short artist profiles, and cut clips for social —
 good for spotlighting artists and growing your audience. Some of our clients include
-Women & Their Work Gallery, and our past work is on our site: [Site Link].
+Women & Their Work Gallery, and our past work is on our site: essentialscreative.com.
 
 Happy to help with a show or event sometime. Reach out anytime.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 7. Georgetown Arts & Culture — Arts@georgetown.org
 
@@ -169,20 +166,20 @@ essentialscreative@gmail.com
 
 Hi Georgetown Arts & Culture,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. With the
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. With the
 Art Center's rotating shows and programs, figured I'd reach out in case video is ever
 useful.
 
 We film exhibitions and events, make short profiles, and put together clips for social
 to help bring people downtown. Some of our clients include Women & Their Work Gallery —
-past work's on our site: [Site Link].
+past work's on our site: essentialscreative.com.
 
 Glad to help with an upcoming opening whenever it fits. Reach out anytime.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 8. San Marcos Arts Commission — ghatt@sanmarcostx.gov
 
@@ -190,20 +187,20 @@ essentialscreative@gmail.com
 
 Hi Trey,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. With the
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. With the
 Commission's work supporting local artists and public art, figured I'd reach out in
 case video is ever handy.
 
 We film events and public art, make short profiles, and cut clips for social — useful
 for grant reporting and public engagement too. Some of our clients include Women &
-Their Work Gallery, and our past work is on our site: [Site Link].
+Their Work Gallery, and our past work is on our site: essentialscreative.com.
 
 Happy to help with a program or install sometime. Thanks for all you do for the scene.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ### 9. Art Center Waco — info@artcenterwaco.org
 
@@ -211,20 +208,20 @@ essentialscreative@gmail.com
 
 Hi Art Center Waco,
 
-I'm [Your Name] from Essentials Creative, a small Central Texas video team. With your
+I'm Fabian Villa from Essentials Creative, a small Central Texas video team. With your
 shows and classes over in the silo district, figured I'd reach out in case video is
 ever useful.
 
 We film exhibitions and events, make short artist profiles, and cut clips for social —
 good for archiving shows and filling seats in a class. Some of our clients include
-Women & Their Work Gallery, and you can see our past work here: [Site Link].
+Women & Their Work Gallery, and you can see our past work here: essentialscreative.com.
 
 Glad to help with an exhibit or class sometime. Reach out anytime.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ---
 
@@ -239,12 +236,12 @@ Hi [Organization],
 
 Just floating this back up in case it slipped by. No worries at all if the timing's
 off — happy to be a resource whenever video comes up down the road. Our recent work's
-here if it's handy: [Site Link].
+here if it's handy: essentialscreative.com.
 
 Thanks,
-[Your Name]
+Fabian Villa
 Essentials Creative
-essentialscreative@gmail.com
+essentialscreative@gmail.com · Instagram @essentialscreative
 
 ---
 
